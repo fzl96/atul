@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Pacifico, Inter } from "next/font/google";
+import { Pacifico, Inter } from "next/font/google";
 import "./globals.css";
 import { cn } from "@/lib/utils";
 
